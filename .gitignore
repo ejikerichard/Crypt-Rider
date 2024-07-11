@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+CryptRider/Saved/Telemetry/Telemetry.json
+CryptRider/Saved/Telemetry/Telemetry.json
